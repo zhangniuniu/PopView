@@ -1,0 +1,7 @@
+#Thu Jun 01 12:10:15 CST 2017
+base.0=/Users/zhangyong/Documents/Demo/PopView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_756e172b59e8da355c49a999fe7b0b9f716c077a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zhangyong/Documents/Demo/PopView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5974051925d29a4e2540a5976108c29868bdbf00/classes.dex
+base.1=/Users/zhangyong/Documents/Demo/PopView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5974051925d29a4e2540a5976108c29868bdbf00
+file.0=/Users/zhangyong/Documents/Demo/PopView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_756e172b59e8da355c49a999fe7b0b9f716c077a/classes.dex
